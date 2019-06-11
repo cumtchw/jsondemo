@@ -1,0 +1,2 @@
+# jsondemo
+一个json的demo，可以用来把数据转成json字符串，也可以从json字符串中解析出相应的数据
